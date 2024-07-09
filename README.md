@@ -1,0 +1,1 @@
+Projeto desenvolvido durante curso disponível no Youtube do Professor José de Assis. Utilizado linguagem de programação Java, MySQL para armazenar os dados e Jasper Reports para impressão dos relatórios.
