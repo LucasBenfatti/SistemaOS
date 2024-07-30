@@ -23,7 +23,7 @@ public class ModuloConexao {
         //armazenando informações referente ao BD
         String url = "jdbc:mysql://localhost:3306/dbsistemaordemservico?characterEncoding=utf-8";
         String user = "dba";
-        String password = "371189";
+        String password = "xxxxxx";
 
         //estabelece a conexão com o BD
         try {
